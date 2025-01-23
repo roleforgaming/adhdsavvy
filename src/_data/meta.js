@@ -1,10 +1,10 @@
 module.exports = {
-    author: "Your Name",
-    siteName: "11ty Fylgja Blog",
-    siteDescription: "Your cool new blog, built with Eleventy and Fylgja CSS.",
+    author: "Savannah Bagby",
+    siteName: "Into the Savvyverse",
+    siteDescription: "A blog about all the things I love: being a mom, TTRPGs, food, and navigating life with ADHD (well, I don't really love that part, lol).",
     themeColor: "#6001ff",
-    email: "info@site.dev",
-    phone: "+47 988 988 988",
+    email: "info@intothesavvyverse.us",
+    /* phone: "+47 988 988 988",
     address: {
         name: "Fylgja 11ty",
         street: "the web 11",
@@ -16,5 +16,5 @@ module.exports = {
     socials: {
         twitter: "https://twitter.com/FylgjaDev/",
         github: "https://github.com/fylgja/",
-    },
+    }, */
 };
