@@ -6,6 +6,6 @@ const isProd = process.env.ELEVENTY_ENV === "prod";
 const cacheHash = isProd ? version : "dev";
 
 module.exports = {
-    url: isProd ? "https://11ty-fylgja.netlify.app" : "http://localhost:8080",
+    url: isProd ? "https://intothesavvyverse.pages.dev/" : "http://localhost:8080",
     hash: "?=v" + cacheHash,
 };
